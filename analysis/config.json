@@ -1,0 +1,11 @@
+{
+    "raw_data_name": "marco",
+    "n_trials": 1000,
+    "classifier_name": "lr",
+    "period": 12,
+    "n_test": 30,
+    "n_validate": 5,
+    "leave_one_out": "last_12_hours",
+    "plot": false,
+    "verbose": 0
+}
